@@ -17,14 +17,14 @@ All other packages used are available individually via, pip install
 
 2 - Docker / DockerToolBox
 
-## Running
+### Running
 The primary file that calls each of the functions is titled **insertname.py**
 This will print each stage of the pipeline in the console, as it completes each step of the process
 
 The final output is a classification accuracy score for predicted vs. actual values
 
-## Deployment
+### Deployment
 
 Add notes about Docker and Kubernetes deployment
 
-## Contributors
+### Contributors
